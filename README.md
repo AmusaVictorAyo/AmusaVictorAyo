@@ -6,9 +6,9 @@ Backend Developer | Certified Cybersecurity Analyst | ALX Learner | Faith-Driven
 </h3>
 
 <p align="center">
-  <a href="https://github.com/VictorAmusa"><img src="https://img.shields.io/github/followers/VictorAmusa?label=Follow%20Me&style=social" alt="GitHub Follow Badge"/></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="mailto:YOUR-EMAIL@domain.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail" alt="Email"/></a>
+  <a href="https://github.com/AmusaVictorAyo"><img src="https://img.shields.io/github/followers/VictorAmusa?label=Follow%20Me&style=social" alt="GitHub Follow Badge"/></a>
+  <a href="https://linkedin.com/in/victor-amusa"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="mailto:victoryamusaatlast@gmail.com@domain.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail" alt="Email"/></a>
 </p>
 
 ---
@@ -77,15 +77,15 @@ Starting from a curiosity about how technology works, I’ve grown into a develo
 | 🧩 **SafePass CLI** | Command-line password manager focusing on encryption and secure storage. | Python, SQLite, Cryptography |
 | 📊 **DataFlow Backend** | Secure backend infrastructure for analytics with role-based access control. | Node.js, Express, MongoDB |
 
-➡️ *Explore more in my [repositories](https://github.com/VictorAmusa?tab=repositories).*
+➡️ *Explore more in my [repositories](https://github.com/AmusaVictorAyo?tab=repositories).*
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorAmusa&show_icons=true&theme=github_dark" alt="Victor's GitHub stats" height="160px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorAmusa&theme=github-dark-blue" alt="GitHub streak stats" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AmusaVictorAyo&show_icons=true&theme=github_dark" alt="Victor's GitHub stats" height="160px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmusaVictorAyo&theme=github-dark-blue" alt="GitHub streak stats" height="160px" />
 </p>
 
 ---
@@ -93,9 +93,9 @@ Starting from a curiosity about how technology works, I’ve grown into a develo
 ## 🌍 Let's Connect
 
 <p align="center">
-  <a href="mailto:YOUR-EMAIL@domain.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://twitter.com/YOUR-TWITTER"><img src="https://img.shields.io/badge/Twitter-Follow%20Me-1DA1F2?style=for-the-badge&logo=twitter" /></a>
+  <a href="mailto:victoryamusaatlast@gmail.com@domain.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://linkedin.com/in/victor-amusa"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://twitter.com/AmusaVictorAyo"><img src="https://img.shields.io/badge/Twitter-Follow%20Me-1DA1F2?style=for-the-badge&logo=twitter" /></a>
 </p>
 
 ---
